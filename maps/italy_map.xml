@@ -1,0 +1,81 @@
+<?xml version="1.0" ?>
+<WorldMap>
+	<province id="1">
+		<name>France</name>
+		<x>31</x>
+		<y>27</y>
+		<rgb>53 179 234</rgb>
+	</province>
+	<province id="2">
+		<name>Milan</name>
+		<x>122</x>
+		<y>49</y>
+		<rgb>174 157 10</rgb>
+	</province>
+	<province id="3">
+		<name>Rome</name>
+		<x>137</x>
+		<y>103</y>
+		<rgb>0 112 105</rgb>
+	</province>
+	<province id="4">
+		<name>Venice</name>
+		<x>148</x>
+		<y>16</y>
+		<rgb>236 140 11</rgb>
+	</province>
+	<province id="5">
+		<name>Ljubljana</name>
+		<x>232</x>
+		<y>12</y>
+		<rgb>0 90 125</rgb>
+	</province>
+	<province id="6">
+		<name>Zadar</name>
+		<x>234</x>
+		<y>56</y>
+		<rgb>181 45 36</rgb>
+	</province>
+	<province id="7">
+		<name>Foggia</name>
+		<x>205</x>
+		<y>146</y>
+		<rgb>190 99 32</rgb>
+	</province>
+	<province id="8">
+		<name>Taranto</name>
+		<x>229</x>
+		<y>145</y>
+		<rgb>0 111 63</rgb>
+	</province>
+	<province id="9">
+		<name>Cosenza</name>
+		<x>218</x>
+		<y>184</y>
+		<rgb>217 144 22</rgb>
+	</province>
+	<province id="10">
+		<name>Messina</name>
+		<x>191</x>
+		<y>218</y>
+		<rgb>0 144 59</rgb>
+	</province>
+	<province id="11">
+		<name>Cagliari</name>
+		<x>91</x>
+		<y>153</y>
+		<rgb>221 217 0</rgb>
+	</province>
+	<province id="12">
+		<name>Corte</name>
+		<x>90</x>
+		<y>113</y>
+		<rgb>173 218 231</rgb>
+	</province>
+	<province id="13">
+		<name>Tunis</name>
+		<x>104</x>
+		<y>246</y>
+		<rgb>244 158 160</rgb>
+	</province>
+</WorldMap>

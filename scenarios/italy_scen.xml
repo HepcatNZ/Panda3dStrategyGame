@@ -1,0 +1,93 @@
+<?xml version="1.0" ?>
+<Scenario adce="0" day="1" month="1" name="Italy" year="1492">
+	<nation capital="3" id="1">
+		<name>Rome</name>
+		<province id="2">
+			<name>Milan</name>
+			<owner>1</owner>
+			<money>2</money>
+			<men>1</men>
+		</province>
+		<province id="3">
+			<name>Rome</name>
+			<owner>1</owner>
+			<money>3</money>
+			<men>1</men>
+		</province>
+		<province id="7">
+			<name>Foggia</name>
+			<owner>1</owner>
+			<money>1</money>
+			<men>1</men>
+		</province>
+		<province id="8">
+			<name>Taranto</name>
+			<owner>1</owner>
+			<money>2</money>
+			<men>1</men>
+		</province>
+		<province id="9">
+			<name>Cosenza</name>
+			<owner>1</owner>
+			<money>1</money>
+			<men>1</men>
+		</province>
+		<province id="10">
+			<name>Messina</name>
+			<owner>1</owner>
+			<money>1</money>
+			<men>1</men>
+		</province>
+		<province id="11">
+			<name>Cagliari</name>
+			<owner>1</owner>
+			<money>1</money>
+			<men>1</men>
+		</province>
+		<rgb>255 0 0</rgb>
+		<money>40</money>
+		<men>100</men>
+	</nation>
+	<nation capital="1" id="2">
+		<name>France</name>
+		<province id="1">
+			<name>France</name>
+			<owner>2</owner>
+			<money>1</money>
+			<men>2</men>
+		</province>
+		<province id="4">
+			<name>Venice</name>
+			<owner>2</owner>
+			<money>1</money>
+			<men>1</men>
+		</province>
+		<province id="5">
+			<name>Ljubljana</name>
+			<owner>2</owner>
+			<money>1</money>
+			<men>1</men>
+		</province>
+		<province id="6">
+			<name>Zadar</name>
+			<owner>2</owner>
+			<money>1</money>
+			<men>2</men>
+		</province>
+		<province id="12">
+			<name>Corte</name>
+			<owner>2</owner>
+			<money>1</money>
+			<men>1</men>
+		</province>
+		<province id="13">
+			<name>Tunis</name>
+			<owner>2</owner>
+			<money>1</money>
+			<men>1</men>
+		</province>
+		<rgb>0 255 0</rgb>
+		<money>300</money>
+		<men>420</men>
+	</nation>
+</Scenario>
